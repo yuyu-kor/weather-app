@@ -31,10 +31,6 @@ src/
 │   └── WeatherButton.js
 ├── App.js
 ├── App.css
-├── index.js
-├── index.css
-├── App.test.js
-├── reportWebVitals.js
 └── setupTests.js
 ```
 
