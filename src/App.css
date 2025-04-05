@@ -4,7 +4,10 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+/*   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+/*   산돌구름 웹폰트 적용 */
+  font-family: Sandoll Hoyoyo2;
+  font-weight: 400;
   background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
   background-repeat: no-repeat;
   background-size: cover;
